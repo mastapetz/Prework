@@ -1,4 +1,5 @@
 {
   "less.format.preserveNewLines": true,
   "less.format.enable": false
+  "prettier.enable": false
 }
